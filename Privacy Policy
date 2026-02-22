@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Privacy Policy - [bio shooter]</title>
+    <style>
+        body { font-family: sans-serif; line-height: 1.6; padding: 40px; max-width: 800px; margin: auto; }
+        h1 { color: #333; }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy</h1>
+    <p>Last updated: 2026-02-22</p>
+    <hr>
+    <p>This Privacy Policy describes how we handle user data in [bio shooter].</p>
+    <h2>1. Data Collection</h2>
+    <p>We do not collect any personal identifiable information. Any data processed is handled by CrazyGames SDK for advertising and analytics purposes.</p>
+    <h2>2. User Consent</h2>
+    <p>By playing this game, you agree to the terms provided by the CrazyGames platform.</p>
+    <h2>3. Contact</h2>
+    <p>If you have questions, contact us at: [445735415@qq.com]</p>
+</body>
+</html>
